@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: darkgray;
+}
+
+.header {
+    text-decoration: underline;
+    text-shadow: 5px 5px 4px rgb(85, 85, 85);
+
+}
+
+li{
+    list-style: circle;
+    list-style-position: inside;
+}
+
+a {
+    text-decoration: wavy;
+}
+
+.source {
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+img {
+    width: 500px;
+    border-radius: 16px;
+    border: 8px solid rgb(37, 37, 110);
+}

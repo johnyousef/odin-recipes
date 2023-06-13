@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: darkgray;
+}
+
+img {
+    width: 500px;
+    border-radius: 16px;
+    border: 8px solid rgb(37, 37, 110);
+}
+
+ul{
+    list-style: circle;
+}
+
+ul ,ol {
+    list-style-position: inside;
+}
+
+.header {
+    text-decoration: underline;
+    text-shadow: 5px 5px 4px rgb(85, 85, 85);
+
+}
